@@ -1,0 +1,3 @@
+interface CustomError {
+    message: string;
+}
